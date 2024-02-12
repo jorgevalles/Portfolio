@@ -49,7 +49,7 @@ export default function RootLayout({
           <div className="flex items-center justify-center gap-4">
             <a
               download
-              href="/CV.pdf"
+              href="/Currículum-jorge-valles.pdf"
               className="cursor-pointer hover:opacity-60 duration-200"
             >
               PDF Resume

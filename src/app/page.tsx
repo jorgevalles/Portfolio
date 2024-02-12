@@ -71,6 +71,10 @@ export default function Home() {
   ];
   const workHistory = [
     {
+      name: "Confeorg",
+      content: "Desarrollo de Landing Page(proyecto freelancer) URL del Proyecto : https://renuevatupase.pao.com.co/",
+    },
+    {
       name: "Trainig Escalab Academy",
       content: "Desarrollador de Aplicaciones en React. y Node.",
     },
