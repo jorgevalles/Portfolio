@@ -63,7 +63,7 @@ export default function RootLayout({
             </Link>
 
             <p>|</p>
-            
+
           </div>
           <div className="flex items-center justify-center gap-4 text-lg sm:text-xl">
             <a
